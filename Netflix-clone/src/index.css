@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Lora:wght@500&family=Oswald&family=Poppins:wght@300&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main{
+    max-width: 1280px;
+    margin: auto;
+    min-width: 90vh;
+    padding: 10px;
+}
